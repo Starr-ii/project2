@@ -1,0 +1,43 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.top{
+    background-image: url("images2/background.jpg");
+    text-align: center;
+    color: white;
+    margin: 0%;
+    height: 70%;
+    
+
+}
+
+
+
+.image{
+    margin-top: 50px;
+    border-radius: 180px;
+    border:10px solid rgb(253, 205, 123);
+    
+    
+}
+.Sammy{
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    font-size: 90px;
+}
+*{
+    margin: 0;
+}
+
+
+/* a{
+    padding-bottom: 100px;
+} */
+
+footer{
+    margin-top: 5px;
+    padding-top: 30px;
+}
